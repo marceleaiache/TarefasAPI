@@ -36,7 +36,7 @@ public class Task
     public int ID { get; set; }
     public string Title { get; set; }
     public string Description { get; set; }
-    public DataTime InitialData { get; set; }
-    public DataTime? CloseData { get; set; }
+    public DataTime InitialDate { get; set; }
+    public DataTime? CloseDate { get; set; }
     public bool Completed { get; set; }
 }
