@@ -25,6 +25,7 @@ Esta API tem como finalidade gerenciar tarefas, permitindo o cadastro, visualiza
 - Criar tarefa
 - Listar todas as tarefas
 - Buscar tarefa por ID
+- Buscar tarefas por palavra-chave 
 - Atualizar tarefa
 - Deletar tarefa
 
