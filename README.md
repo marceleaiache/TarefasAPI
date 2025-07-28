@@ -39,6 +39,6 @@ public class Task
     public string Title { get; set; }
     public string Description { get; set; }
     public DateTime InitialDate { get; set; }
-    public DateTime? CloseDate { get; set; }
+    public DateTime? ClosedDate { get; set; }
     public bool Completed { get; set; }
 }
